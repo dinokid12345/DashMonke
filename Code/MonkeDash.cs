@@ -36,7 +36,7 @@ namespace DashMonke
                 private static Vector3 HeadDirection;
 
             //Floats to control the dash
-                private static float DashSpeed = 20;
+                private static float DashSpeed = 55;
                 private static float DashExit = 12;
                 private static float MaxTime = 0.1f;
                 private static float Timer = 0;
